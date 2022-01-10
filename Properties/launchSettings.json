@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LibZipSharpTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
