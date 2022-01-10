@@ -34,6 +34,7 @@ namespace LibZipSharpTest
                 ZipArchive archive = GetArchive(stream);
                 Console.WriteLine($"GetArchive: Stream has position: {stream.Position}");
 
+                // TODO Uncomment to make all the archive variants work
                 // PrintContents(archive, stream);
                 // Console.WriteLine($"PrintContents: Stream has position: {stream.Position}");
 
